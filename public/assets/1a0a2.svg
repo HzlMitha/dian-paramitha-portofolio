@@ -1,0 +1,15 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="devicon:flutter">
+<path id="Vector" d="M4.90078 25.5797L30.4008 0H46.0992L12.7898 33.3094L4.90078 25.5797ZM30.4008 51H46.0992L32.5125 37.4133L46.0992 23.5477H30.4008L16.8141 37.2539L30.4008 51Z" fill="#3FB6D3"/>
+<path id="Vector_2" d="M32.5125 37.4133L24.5437 29.4445L16.8141 37.2539L24.5437 45.0633L32.5125 37.4133Z" fill="#27AACD"/>
+<path id="Vector_3" d="M46.0992 51L32.5125 37.4133L24.5437 45.0633L30.4008 51H46.0992Z" fill="#19599A"/>
+<path id="Vector_4" d="M24.5437 45.0633L36.8156 41.7164L32.5125 37.4133L24.5437 45.0633Z" fill="url(#paint0_linear_0_39)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_39" x1="23.6532" y1="46.3622" x2="34.5943" y2="39.6043" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1B4E94"/>
+<stop offset="0.63" stop-color="#1A5497"/>
+<stop offset="1" stop-color="#195A9B"/>
+</linearGradient>
+</defs>
+</svg>
